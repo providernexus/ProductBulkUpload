@@ -1,0 +1,13 @@
+{
+    "name": "nexustechies/product-bulk-upload",
+    "description": "Bulk product importer from csv for laravel",
+    "type": "metapackage",
+    "authors": [
+        {
+            "name": "Subhash Shipu",
+            "email": "provider.nexus@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
