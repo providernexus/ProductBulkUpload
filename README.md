@@ -12,7 +12,9 @@
 ```
 
 - Register the package in *config/app.php* file under the *providers* array
-> ProductBulkUpload\Providers\ProductBulkUploadServiceProvider::class,
+```php
+ProductBulkUpload\Providers\ProductBulkUploadServiceProvider::class,
+```
 
 - Update composer
 > composer dump-autoload  OR composer update
